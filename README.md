@@ -4,7 +4,7 @@ A simple Notepad clone built using Java Swing. It mimics the functionality of th
 
 ## 📸 Screenshots
 
-![Notepad Screenshot]() <!-- Replace with actual image if available -->
+![Notepad Screenshot](Notepad-Clone.png) <!-- Replace with actual image if available -->
 
 ---
 
